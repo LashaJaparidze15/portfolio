@@ -8,11 +8,10 @@ export default function About() {
           <div className="about-text">
             <h2>About Me</h2>
             <p>
-              I'm a third-year Software Development student at SETU Carlow with a passion for building scalable web applications. 
-              With hands-on experience in both front-end and back-end technologies, I love solving complex problems and creating elegant solutions.
+              I'm a third-year Software Development student at SETU Carlow with a passion for and hands-on experience in both front-end and back-end technologies, I love solving complex problems and creating elegant solutions.
             </p>
             <p>
-              Beyond coding, I've earned recognition for academic excellence including a national essay writing competition winner 
+              Beyond coding, I've earned recognition for academic excellence including being a national essay writing competition winner 
               and a national intellectual games champion. I'm also an active member of the Jiu-Jitsu club at my university.
             </p>
 
