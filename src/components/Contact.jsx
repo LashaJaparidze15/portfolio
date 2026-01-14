@@ -51,13 +51,13 @@ export default function Contact() {
             </div>
             <div className="info-item">
               <h3>Phone</h3>
-              <p>+353 (0) 83 294 7924</p>
+              <p>+353 (0) 83 429 4792</p>
             </div>
             <div className="info-item">
               <h3>Connect</h3>
               <div className="contact-links">
                 <a href="https://github.com/LashaJaparidze15" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/lasha-japaridze-651144252/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               </div>
             </div>
           </div>
