@@ -36,7 +36,7 @@ export default function Contact() {
       <div className="container">
         <div className="section-header">
           <h2>Get In Touch</h2>
-          <p>Let's talk about your next project</p>
+          <p>Let's talk</p>
         </div>
 
         <div className="contact-content">
