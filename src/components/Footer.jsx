@@ -35,7 +35,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p>&copy; {currentYear} Lasha Japaridze. All rights reserved.</p>
-          <p>Built with React & <3 </p>
+          <p>Built with React & ❤️ </p>
         </div>
       </div>
     </footer>
