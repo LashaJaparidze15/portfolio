@@ -29,7 +29,7 @@ export default function Hero() {
               <a href="https://github.com/LashaJaparidze15" target="_blank" rel="noopener noreferrer" className="social-link">
                 GitHub
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://www.linkedin.com/in/lasha-japaridze-651144252/" target="_blank" rel="noopener noreferrer" className="social-link">
                 LinkedIn
               </a>
               <a href="mailto:lashajapara68@gmail.com" className="social-link">
