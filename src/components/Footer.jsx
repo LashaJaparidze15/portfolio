@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Lasha Japaridze</h3>
-            <p>Full-Stack Developer & Computer Science Student</p>
+            <p>Full-Stack Developer & Software Development Student</p>
           </div>
 
           <div className="footer-section">
