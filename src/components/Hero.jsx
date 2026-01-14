@@ -37,9 +37,9 @@ export default function Hero() {
               </a>
             </div>
           </div>
-          <div className="hero-visual">
-            <div className="avatar-placeholder">
-              <span>LJ</span>
+           <div className="hero-visual">
+            <div className="avatar-image">
+              <img src="/profile.jpg" alt="Lasha Japaridze" />
             </div>
           </div>
         </div>
