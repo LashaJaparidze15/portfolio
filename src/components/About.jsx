@@ -35,9 +35,9 @@ export default function About() {
             <div className="achievements">
               <h3>Key Achievements</h3>
               <ul>
-                <li>🏆 National essay writing competition winner</li>
-                <li>🎯 National intellectual games "Battle of Brains" winner</li>
-                <li>🥇 National golden medal for academic excellence</li>
+                <li> National essay writing competition winner</li>
+                <li> National intellectual games "Battle of Brains" winner</li>
+                <li> National golden medal for academic excellence</li>
               </ul>
             </div>
           </div>
