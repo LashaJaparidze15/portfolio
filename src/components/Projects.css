@@ -116,6 +116,11 @@
   border-color: #667eea;
 }
 
+
+.project-links {
+    display: flex;
+    gap: 1rem;
+}
 .project-link {
   display: inline-block;
   color: #667eea;
