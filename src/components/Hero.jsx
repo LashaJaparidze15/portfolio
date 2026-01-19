@@ -14,8 +14,9 @@ export default function Hero() {
             </p>
             <p className="hero-description">
               Building scalable web applications with modern technologies. 
-              Experienced in React, Node.js, Python, and Java. 
-              Currently a 3rd year student at SETU Carlow.
+              Developing clean and reliable Software. Experienced in React, 
+              Node.js, Python, Java, and more. Currently a 3rd year student 
+              at SETU Carlow.
             </p>
             <div className="hero-cta">
               <a href="#projects" className="cta-button primary">
