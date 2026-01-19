@@ -8,6 +8,7 @@ const projectsData = [
     tags: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Express'],
     link: 'https://github.com/LashaJaparidze15/devconnect',
     featured: true,
+     website: 'https://devconnect-platform.vercel.app',
     color: '#667eea'
   },
   {
@@ -16,6 +17,7 @@ const projectsData = [
     description: 'Intelligent task management application with integrated weather, news, and stock market data. Features activity tracking and API integrations with a Python/FastAPI backend.',
     tags: ['React', 'Python', 'FastAPI', 'Task Management', 'API'],
     link: 'https://github.com/LashaJaparidze15/Buddy',
+     website: 'https://buddy-planner.vercel.app',
     featured: true,
     color: '#764ba2'
   },
@@ -71,9 +73,16 @@ export default function Projects() {
                   </span>
                 ))}
               </div>
+<div className="project-links">
               <a href={project.link} target="_blank" rel="noopener noreferrer" className="project-link">
-                View on GitHub →
-              </a>
+                              View on GitHub →
+              </a>a>
+  {project.website && (
+                  <a href={project.website} target="_blank" rel="noopener noreferrer" className="project-link">
+                                    View Website →
+                  </a>a>
+              )}
+</div>div></div>
             </div>
           ))}
         </div>
