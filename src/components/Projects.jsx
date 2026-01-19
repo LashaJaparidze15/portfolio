@@ -76,13 +76,13 @@ export default function Projects() {
 <div className="project-links">
               <a href={project.link} target="_blank" rel="noopener noreferrer" className="project-link">
                               View on GitHub →
-              </a>a>
+              </a>
   {project.website && (
                   <a href={project.website} target="_blank" rel="noopener noreferrer" className="project-link">
                                     View Website →
-                  </a>a>
+                  </a>
               )}
-</div>div></div>
+</div>
             </div>
           ))}
         </div>
