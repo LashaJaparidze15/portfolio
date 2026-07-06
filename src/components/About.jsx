@@ -24,9 +24,9 @@ export default function About() {
               <div className="highlight-item">
                 <h4>Experience</h4>
                 <ul>
-                  <li>Freelance Translator - Translation.ie (Jan 2025-Present)</li>
-                  <li>Warehouse Worker - Team Obair Dublin (Jun 2024-Present)</li>
-                  <li>Waiter - Mimosa Bar de Tapas (Mar-May 2024)</li>
+                  <li>Software Developer (Intern &rarr; Full-time) - activ.ie (Feb 2026-Present)</li>
+                  <li>Warehouse Operative - Batchelor's (May 2024-Feb 2026)</li>
+                  <li>Bar Runner - PMKOR, Phoenix Park festivals (Summer 2025)</li>
                 </ul>
               </div>
             </div>
