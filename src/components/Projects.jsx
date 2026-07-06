@@ -2,6 +2,16 @@ import './Projects.css'
 
 const projectsData = [
   {
+    id: 6,
+    title: 'bizfinder.ie',
+    description: 'National Irish business directory & analytics platform — 46,000+ businesses across all 26 counties. Full stack: Next.js (SSR/SEO), an Expo mobile app, a Fastify API, and Python scrapers on Supabase (PostGIS + pgvector), with Stripe billing, semantic "similar business" search, and first-party reviews.',
+    tags: ['Next.js', 'TypeScript', 'Fastify', 'Supabase', 'PostgreSQL', 'Stripe'],
+    link: 'https://github.com/LashaJaparidze15/bizfinder-ie',
+    website: 'https://bizfinder-ie-web.vercel.app',
+    featured: true,
+    color: '#10b981'
+  },
+  {
     id: 1,
     title: 'DevConnect',
     description: 'Full-stack developer networking platform with real-time chat, user profiles, and direct messaging. Built with React, Node.js, MongoDB, and Socket.io for seamless real-time communication.',
