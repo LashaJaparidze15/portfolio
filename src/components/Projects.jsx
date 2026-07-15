@@ -2,6 +2,15 @@ import './Projects.css'
 
 const projectsData = [
   {
+    id: 7,
+    title: 'Open Source — Fastify',
+    description: 'Contributed a fix to @fastify/http-proxy, merged into main by Fastify\'s lead maintainer. Stopped proxied requests from crashing on invalid HTTP header characters (control chars / code points > 0xFF) by adding header-sanitization utilities that handle both string and array values like set-cookie, with unit tests. Now shipping in the published package.',
+    tags: ['Open Source', 'Node.js', 'Fastify', 'Merged PR'],
+    link: 'https://github.com/fastify/fastify-http-proxy/pull/472',
+    featured: true,
+    color: '#e91e63'
+  },
+  {
     id: 6,
     title: 'bizfinder.ie',
     description: 'National Irish business directory & analytics platform — 46,000+ businesses across all 26 counties. Full stack: Next.js (SSR/SEO), an Expo mobile app, a Fastify API, and Python scrapers on Supabase (PostGIS + pgvector), with Stripe billing, semantic "similar business" search, and first-party reviews.',
