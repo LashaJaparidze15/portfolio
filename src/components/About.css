@@ -122,6 +122,8 @@
 }
 
 @media (max-width: 768px) {
+  .about { padding: 52px 0; }
+
   .about-grid {
     grid-template-columns: 1fr;
   }
